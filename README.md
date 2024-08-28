@@ -77,6 +77,7 @@ plt.show()
 
 ### OUTPUT:
 
+![Screenshot 2024-08-28 095117](https://github.com/user-attachments/assets/ab499e03-26a0-4953-8339-c49906bcf374)
 
 REGULAR DIFFERENCING:
 
